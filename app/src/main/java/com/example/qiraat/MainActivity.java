@@ -1,8 +1,9 @@
 package com.example.qiraat;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.selfstudy.R;
 
 public class MainActivity extends AppCompatActivity {
 

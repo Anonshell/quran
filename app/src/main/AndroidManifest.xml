@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.selfstudy"
-    platformBuildVersionCode="31"
+    android:platformBuildVersionCode="31"
     platformBuildVersionName="12"
     android:compileSdkVersion="31"
     android:compileSdkVersionCodename="12"
@@ -33,57 +33,15 @@
         <activity
             android:name="com.example.selfstudy.Devcontact"
             android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.quran"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.splash_screen"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.ziharka"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.tajweed"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.show_saved"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.sobah"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.sikah"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.maqamat"
-            android:exported="false" />
+
         <activity
             android:name="com.example.selfstudy.Nahawand"
             android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.menu"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.hijaz"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.rast"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.kurd"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.bayati"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.learn_maqamat"
-            android:exported="false" />
+
         <activity
             android:name="com.example.selfstudy.Quran"
             android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.Nahawand"
-            android:exported="false" />
+
         <activity
             android:name="com.example.selfstudy.Kurd"
             android:exported="false" />
@@ -106,7 +64,7 @@
             android:name="com.example.selfstudy.Bayati"
             android:exported="false" />
         <activity
-            android:name="com.example.selfstudy.MainActivity"
+            android:name="com.example.qiraat.MainActivity"
             android:exported="false" />
         <activity
             android:name="com.example.selfstudy.ShowSaved"
@@ -118,12 +76,7 @@
         <activity
             android:name="com.example.selfstudy.Maqamat"
             android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.Memorized"
-            android:exported="false" />
-        <activity
-            android:name="com.example.selfstudy.Menu"
-            android:exported="false" />
+
         <activity
             android:name="com.example.selfstudy.Splash_Screen"
             android:exported="true">
