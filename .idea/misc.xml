@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/drawable-v24/abc_dialog_material_background.xml" value="0.223" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_bayati.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_devcontact.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_hijaz.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_kurd.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_learn_maqamat.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_maqamat.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_nahawand.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_quran.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_ras.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_rast.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_show_saved.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_sikah.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_sobah.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_splash_screen.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_tajweed.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/Ammar/AndroidStudioProjects/Qiraat/app/src/main/res/layout/activity_ziharka.xml" value="0.21829710144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
